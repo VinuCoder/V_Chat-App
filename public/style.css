@@ -26,6 +26,16 @@ nav h1{
     font-size: 2rem;
     text-shadow: 2px 1px 10px;
     color: azure;
+    animation: vinu 2s ease-in-out 1s infinite;
+}
+@keyframes vinu{
+    from{
+        text-shadow: 3px 3px 8px blanchedalmond;
+       
+    }
+    to{
+        text-shadow: 3px 3px 10px white;
+    }
 }
 
 .container{
