@@ -109,9 +109,11 @@ nav h1{
     }
     .right h3{
         width: 26%;
+        font-weight: 1rem;
     }
     .left h3{
         width: 26%;
+        font-weight: 1rem; 
     }
     .right p{
         padding: 6px 5px;
