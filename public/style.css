@@ -96,8 +96,15 @@ nav h1{
 @media screen and (max-width:1400px){
     nav{
         padding-bottom: 30px;
+        padding-top: 36px;
     }
     nav h1{
         width: 27%;
+    }
+    body{
+        height: 80vh;
+    }
+    .container{
+        height: 250px;
     }
 }
