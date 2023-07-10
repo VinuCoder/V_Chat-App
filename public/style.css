@@ -4,10 +4,10 @@
 }
 body{
     background-image: url(background.jpg);
-    height: 170vh;
+    height: 110vh;
 }
 nav{
-    padding-top: 100px;
+    padding-top: 30px;
 }
 nav img{
     display: block;
@@ -34,7 +34,7 @@ nav h1{
     border: 6px solid black;
     background-color: #dfddda;
     max-width: 900px;
-    height: 450px;
+    height: 440px;
     margin-top: 12px;
     margin-bottom: 20px;
     padding-top: 1px;
@@ -59,7 +59,7 @@ nav h1{
 }
 
 .left p{
-    background-color: #e1e1e1;
+    background-color: #9d9d9d;
     width: 30%;
     padding: 12px 10px;
     margin: 0px 2px;
@@ -106,5 +106,19 @@ nav h1{
     }
     .container{
         height: 250px;
+    }
+    .right h3{
+        width: 28%;
+    }
+    .left h3{
+        width: 28%;
+    }
+    .right p{
+        padding: 6px 7px;
+        width: 28%;
+    }
+    .left p{
+        padding: 6px 7px;
+        width: 28%;
     }
 }
