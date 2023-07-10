@@ -108,17 +108,17 @@ nav h1{
         height: 250px;
     }
     .right h3{
-        width: 28%;
+        width: 26%;
     }
     .left h3{
-        width: 28%;
+        width: 26%;
     }
     .right p{
-        padding: 6px 7px;
+        padding: 6px 5px;
         width: 28%;
     }
     .left p{
-        padding: 6px 7px;
+        padding: 6px 5px;
         width: 28%;
     }
 }
